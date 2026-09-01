@@ -16,6 +16,7 @@
     <VersionPrefix>0.6.42</VersionPrefix>
     <VersionSuffix></VersionSuffix>
     <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+    <InternalsVisibleTo>Azure.Sdk.Tools.Cli.Tests</InternalsVisibleTo>
     <!-- Package metadata -->
     <PackageReleaseNotes>See CHANGELOG.md for release notes</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/Azure/azure-sdk-tools</RepositoryUrl>
